@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Simple Currency Exchange</string>
+    <string-array name="PLACEHOLDERS">
+        <item>MYR</item>
+        <item>OOF</item>
+    </string-array>
+</resources>
